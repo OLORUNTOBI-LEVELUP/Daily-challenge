@@ -1,0 +1,82 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+
+  .left {
+    left: 0;
+    background-color: #a4c4b5;
+  }
+
+  .right {
+    right: 0;
+    background-color: #ffffff;
+  }
+
+  .slide {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+h5, p {
+    color: #ffffff;
+}
+
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid #c5c6c4;
+    width: 300px;
+    color: #3c3f39;
+
+}
+.centered img {
+    padding: 50px 200px;
+}
+.centered h2 {
+    color: #a9a9a9;
+    padding: 0px 160px;
+}
+.legoo {
+    padding: 50px 200px;
+    font-size: 10px;
+    color: #c6c7c5;
+}
+.legoo a {
+    float: right;
+    color: #a4c4b5;
+    padding-top: 10px;
+}
+.button {
+    background-color: #696969;
+    font-size: 20px;
+    padding: 5px 50px;
+    border-radius: 40px;
+    color: white;
+    margin: 20px 50px;
+}
+h3 {
+    text-align: center;
+    color: #a8aaa7;
+    font-size: 15px;
+
+}
+#line img {
+    padding: 0px 200px;
+}
+#line p {
+    text-align: center;
+    margin-top: 20px;
+    color: #a8aaa7;
+
+
+}
+#line a {
+    color: #a4c4b5;
+}
