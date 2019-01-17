@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0b/Wildlife-2.jpg);
+    background-size: 1400px;
+    background-repeat: no-repeat;
+    
+}
+.first {
+    display: block;
+    text-align: center;
+    color: #fff;
+}
+.second {
+    color: #fff;
+    padding-top: 20px;
+}
+.third {
+    display: block;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 190px;
+    padding-top: 200px;
+}
+form {
+    width: 900px;
+    padding-left: 400px;
+
+}
+footer {
+    float: right;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
